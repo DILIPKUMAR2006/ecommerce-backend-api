@@ -81,5 +81,6 @@ MySQL → Repository → Service → DTO → Controller → Postman
 
 **Dilipkumar**
 
-- GitHub: [@dilipkumar](https://github.com/DILIPKUMAR2006)
-- LinkedIn: [dilipkumar](https://linkedin.com/in/dilipkumar2410)
+- GitHub: [https://github.com/dilipkumar2410](https://github.com/dilipkumar2410)
+- LinkedIn: [https://linkedin.com/in/dilipkumar2410](https://linkedin.com/in/dilipkumar2410)
+- Email: [dilipkumar.coder@gmail.com](mailto:dilipkumar.coder@gmail.com)
